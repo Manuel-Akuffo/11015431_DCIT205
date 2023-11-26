@@ -39,7 +39,7 @@ Pages
    </p>
 
 
-Introduction
+<u>Introduction</u>
 This project aims to create a comprehensive 10-page website for your department. The website will serve as a central hub for information about your department's programs, faculty, research, news, and more.
 
 Getting Started
