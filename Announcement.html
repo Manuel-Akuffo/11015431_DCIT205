@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Announcements</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: lightblue;
+            background-image: url('announce.png');
+            background-size: 500px;
+            background-position:center;
+
+          
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #444;
+            overflow: hidden;
+        }
+
+        nav a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .announcement-container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+            
+        }
+    </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <a href="News.html"><img src="comScience_logo.png"></a>
+  </div>
+    <h1>Computer Science Announcement Page</h1>
+</header>
+
+<nav>
+    <a onclick="showAnnouncements()">Announcements</a>
+    <a onclick="showEvents()">Upcomings</a>
+    
+</nav>
+
+<div class="announcement-container" id="announcements">
+    <h2>Latest Announcements</h2>
+    <ul>
+        <li><strong>Important Announcement:</strong>Learn untill your brain falls out of your head cause that's the way of a student.</li>
+        <li><strong>Reminder:</strong>Don't forget this IA is just the start of the journey.</li>
+        <!-- Add more announcements as needed -->
+    </ul>
+</div>
+
+<div class="announcement-container" id="events" style="display: none;">
+    <h2>Upcomings</h2>
+    <ul>
+        <li><strong>Guest Lecture:</strong>Enculcating discipline on the path of students. </li>
+        <li><strong>Hackathon:</strong> Focus on your skills to be able to stop hackers.</li>
+        <!-- Add more events as needed -->
+    </ul>
+</div>
+
+<script>
+    function showAnnouncements() {
+        document.getElementById('announcements').style.display = 'block';
+        document.getElementById('events').style.display = 'none';
+    }
+
+    function showEvents() {
+        document.getElementById('announcements').style.display = 'none';
+        document.getElementById('events').style.display = 'block';
+    }
+</script>
+
+</body>
+</html>
