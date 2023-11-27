@@ -12,7 +12,7 @@ Getting started
 </p>
 <p>
 Pages
-</p>
+
 <ul>
   <li>Home</li>
   <li>About</li>
@@ -22,7 +22,7 @@ Pages
   <li>Admission</li>
    <li>News<li>
    </ul>
-   <p>
+  
    Design and Layout
    </p>
    <p>
@@ -36,19 +36,19 @@ Pages
    </p>
 
 
-<u>Introduction</u>
+Introduction
 This project aims to create a comprehensive 10-page website for your department. The website will serve as a central hub for information about your department's programs, faculty, research, news, and more.
 
-<u>Getting Started</u>
+Getting Started
 Clone this repository to your local machinine.
 Navigate to the project folder and open it in your preferred text editor.
 Customize the content of each page according to your department's information.
 
 
-<u>Department Website Project</u>
+Department Website Project
 Welcome to the documentation for creating a 10-page website for your department. This guide will walk you through the steps to set up a professional and informative website tailored for your department's needs.
 
-Table of Contents
+<h3>Table of Contents</h3>
 Introduction
 
 Getting Started
@@ -80,57 +80,71 @@ Customize the content of each page according to your department's information.
 
 Pages:
 
-<u>Home</u>
+#
+Home
 Brief overview of the department
 Highlight important announcements or events
 
-<u>About Us</u>
+#
+About Us
 Detailed information about the department's history, mission, and vision
 
-<u>Programs</u>
+#
+Programs
 Overview of academic programs offered
 Admission requirements
 
-<u>Faculty</u>
+#
+Faculty
 List of faculty members with brief profiles
 
-<u>Research</u>
+#
+Research
 Showcase ongoing research projects
 Provide information about research opportunities
 
-<u>News and Events</u>
+News and Events
 Latest news and upcoming events related to the department
 
-<u>Contact Us</u>
+#
+Contact Us
 Contact information for the department
 Contact form for inquiries
 
-<u>Admissions</u>
+#
+Admissions
 Detailed information on the admission process
 Application deadlines
 
-<u>Resources</u>
+#
+Resources
 Links to useful resources, publications, and external links
 
-<u>Design and Layout</u>
+#
+Design and Layout
 Choose a clean and professional design.
 Ensure a consistent layout across all pages for a cohesive look.
 
-<u>Content Guidelines</u>
+#
+Content Guidelines
 Use clear and concise language.
 Provide relevant and up-to-date information.
 Use high-quality images.
 
-<u>Testing</u>
+#
+Testing
 Test the website on different browsers and devices to ensure compatibility.
 
-<u>Deployment</u>
+#
+Deployment
 Choose a web hosting service and deploy your website.
 
-<u>Maintenance</u>
+#
+Maintenance
 Regularly update content to keep it current.
 Monitor for broken links and fix them promptly.
 
-<u>Contributing</u>
+#
+Contributing
 for information on how to contribute to this project.
 </body>
