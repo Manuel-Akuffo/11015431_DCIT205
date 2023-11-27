@@ -10,21 +10,18 @@ Table of Contents
 <p>
 Getting started
 </p>
-
-
 <p>
 Pages
 </p>
 <ul>
-                <li>Home</li>
-                <li>About</li>
-                <li>Research<li>
-                <li>Courses<li>
-               <li>Academics</li>
-                <li>Admission</li>
-                <li>News<li>
+  <li>Home</li>
+  <li>About</li>
+  <li>Research<li>
+  <li>Courses<li>
+  <li>Academics</li>
+  <li>Admission</li>
+   <li>News<li>
    </ul>
-
    <p>
    Design and Layout
    </p>
