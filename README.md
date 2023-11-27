@@ -36,23 +36,23 @@ Pages
    </p>
 
 
-Introduction
+<h3>Introduction</h3>
 This project aims to create a comprehensive 10-page website for your department. The website will serve as a central hub for information about your department's programs, faculty, research, news, and more.
 
-Getting Started
+<h3>Getting Started</h3>
 Clone this repository to your local machinine.
 Navigate to the project folder and open it in your preferred text editor.
 Customize the content of each page according to your department's information.
 
 
-Department Website Project
+<h3>Department Website Project</h3>
 Welcome to the documentation for creating a 10-page website for your department. This guide will walk you through the steps to set up a professional and informative website tailored for your department's needs.
 
 <h3>Table of Contents</h3>
 Introduction
 
-Getting Started
-Pages
+<h3>Getting Started</h3>
+#Pages
 Home
 About Us
 Programs
@@ -72,10 +72,10 @@ License
 Introduction
 This project aims to create a comprehensive 10-page website for your department. The website will serve as a central hub for information about your department's programs, faculty, research, news, and more.
 
-Web browser
+<h3>Web browser</h3>
 Basic understanding of HTML and CSS
 
-Getting Started
+<h3>Getting Started</h3>
 Customize the content of each page according to your department's information.
 
 Pages:
