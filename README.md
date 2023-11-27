@@ -12,7 +12,7 @@ Getting started
 </p>
 <p>
 Pages
-
+<div>
 <ul>
   <li>Home</li>
   <li>About</li>
@@ -22,6 +22,7 @@ Pages
   <li>Admission</li>
    <li>News<li>
    </ul>
+</div>
   
    Design and Layout
    </p>
@@ -147,4 +148,14 @@ Monitor for broken links and fix them promptly.
 #
 Contributing
 for information on how to contribute to this project.
+
+
+<h3>Conclution:</h3>
+Thank you for exploring our website project! We hope this README guide has provided you with a clear understanding of the project's purpose, features, and how to get started. As we continue to enhance and improve the website, we welcome your feedback, suggestions, and contributions.
+
+Building this project has been an exciting journey for our team, and we're committed to maintaining and evolving it to meet the needs of our users. Your support and engagement are invaluable to us, and we look forward to creating a positive and collaborative community around this project.
+
+If you encounter any issues, have questions, or want to contribute, please don't hesitate to reach out. Visit our GitHub repository to open issues, submit pull requests, or simply drop us a message. We appreciate your interest and involvement in making this project a success.
+
+Happy coding!
 </body>
