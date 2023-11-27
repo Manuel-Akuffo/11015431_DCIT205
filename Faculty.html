@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Science Faculty Page</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: lightblue;
+            background-image: url('chart.webp');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+        header {
+            background-color: #1e409f;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        section {
+            margin: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+
+        .faculty-card {
+            width: 300px;
+            background-color: #fff;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            
+        }
+
+        .faculty-card h2 {
+            color: #1e409f;
+        }
+
+        .faculty-card p {
+            color: #333;
+        }
+
+        button {
+            background-color: #1e409f;
+            color: #fff;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            
+        }
+    </style>
+</head>
+
+<body>
+  <div>
+    <a href="Homepage.html"><img src="comScience_logo.png"></a>
+  </div>
+
+    <header>
+        <h1>Computer Science Faculty Page</h1>
+    </header>
+
+    <section id="faculty-list">
+       
+    </section>
+
+    <script>
+        const computerScienceFacultyData = [
+            { name: 'John Doe', position: 'Professor', contact: 'john@example.com' },
+            { name: 'Jane Smith', position: 'Associate Professor', contact: 'jane@example.com' },
+            { name: 'Robert Johnson', position: 'Assistant Professor', contact: 'robert@example.com' },
+            { name: 'Alice Brown', position: 'Lecturer', contact: 'alice@example.com' },
+            { name: 'Charlie Davis', position: 'Adjunct Faculty', contact: 'charlie@example.com' },
+            { name: 'Emily White', position: 'Researcher', contact: 'emily@example.com' },
+            { name: 'Frank Miller', position: 'Instructor', contact: 'frank@example.com' },
+            { name: 'Grace Taylor', position: 'Senior Lecturer', contact: 'grace@example.com' },
+            { name: 'Henry Wilson', position: 'Assistant Professor', contact: 'henry@example.com' },
+            { name: 'Ivy Martinez', position: 'Professor', contact: 'ivy@example.com' }
+            
+        ];
+
+        function createFacultyCard(faculty) {
+            const card = document.createElement('div');
+            card.classList.add('faculty-card');
+
+            const title = document.createElement('h2');
+            title.textContent = faculty.name;
+
+            const position = document.createElement('p');
+            position.textContent = `Position: ${faculty.position}`;
+
+            const contactButton = document.createElement('button');
+            contactButton.textContent = 'Contact';
+            contactButton.addEventListener('click', function () {
+                alert(`Contact ${faculty.name} at ${faculty.contact}`);
+            });
+
+            card.appendChild(title);
+            card.appendChild(position);
+            card.appendChild(contactButton);
+
+            document.getElementById('faculty-list').appendChild(card);
+        }
+
+        computerScienceFacultyData.forEach(createFacultyCard);
+    </script>
+
+
+
+<footer class="footer-area section-gap">
+    <div class="container">
+      <div class="row" style="display: flex;">
+        <div class="col-lg-1">
+          <div class="single-footer-widget">
+           <h4>Academics</h4>
+           <ul>
+            <li>
+              <a href="/underground-course">Underground Courses</a>
+            </li>
+  
+             <li>
+              <a href="http:www.edu.gh/academics/calender">Academic Calender</a>
+             </li>
+  
+             <li>
+              <a href="img/ DEPARTMENT OF COMPUTER SCIENCE, UG - 200 & 300.pdf">Level 200 & 300 Timetable</a>
+             </li>
+            </ul>
+          </div>
+        </div>
+  
+  
+        <div class="col-lg-2">
+          <div class="single-footer w">
+            <h4>Admissions</h4>
+            <ul>
+              <li>
+                <a href="http://admssion.ug.edu.gh/applying/undergraduate/overview">Undergraduate</a>
+              </li>
+  
+              <li>
+                <a href="http://admssion.ug.edu.gh/applying/postgraduate/overview">Graduate</a>
+              </li>
+  
+              <li>
+                <a href="http://admssion.ug.edu.gh/applying/international/overview">International Students</a>
+              </li>
+  
+              <li>
+                <a href="/entry">Entry Requirements</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+  
+          
+         <div class="col-lg-3">
+          <div class="single-wi">
+            <h4>Research</h4>
+              <ul>
+                <li>
+                 <a href="/research-docs">Research at DCS</a>
+                </li>
+  
+                <li>
+                  <a href="/research-impact">Research Impact</a>
+   
+                 </li>
+                 <li>
+                  <a href="http://balme.ug.edu.gh/">Libraries</a>
+   
+                 </li>
+              </ul>
+            </div>
+         </div>
+  
+            <div class="col-lg-4">
+              <div class="single-wid">
+                <h4>About The Department</h4> 
+  
+                <ul>
+                  <li>
+                   <a href="/about">Introducing DCS</a>
+    
+                  </li>
+    
+                  <li>
+                    <a href="/officehod">Head Of Department's office</a>
+     
+                   </li>
+                   <li>
+                    <a href="/faculty">Faculty</a>
+     
+                   </li>
+                </ul>
+  
+  
+  
+             </div>
+  
+      </div>
+  
+</body>
+
+</html>
