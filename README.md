@@ -14,6 +14,15 @@ Getting started
 
  <div>
   Pages:
+  
+  1. Home
+  2. About
+  3. Research
+  4. Courses
+  5. Academics
+  6. Admission
+  7. News
+   
 
 
 </div>
