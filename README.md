@@ -11,17 +11,11 @@ Table of Contents
 Getting started
 </p>
 <p>
-Pages
-<div>
-<ul>
-  <li>Home</li>
-  <li>About</li>
-  <li>Research<li>
-  <li>Courses<li>
-  <li>Academics</li>
-  <li>Admission</li>
-   <li>News<li>
-   </ul>
+
+ <div>
+  Pages:
+
+
 </div>
   
    Design and Layout
@@ -62,7 +56,6 @@ Research
 News and Events
 Contact Us
 Admissions
-
 Resources
 Design and Layout
 Content Guidelines
