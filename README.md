@@ -6,7 +6,6 @@ Table of Contents
 
 <p>
  Introduction
-<<<<<<< HEAD
  </p>
 
   <p>
@@ -14,7 +13,6 @@ Table of Contents
   </p>
 
 <h2>Pages</h2>
-=======
 </p>
 <p>
 Getting started
