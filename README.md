@@ -6,12 +6,13 @@ Table of Contents
 
 <p>
  Introduction
-</p>
-<p>
-Getting started
-</p>
-<p>
-Pages
+ </p>
+
+  <p>
+    Getting started
+  </p>
+
+<h2>Pages</h2>
 
 <ul>
   <li>Home</li>
@@ -23,7 +24,8 @@ Pages
    <li>News<li>
    </ul>
   
-   Design and Layout
+  <p> 
+  Design and Layout
    </p>
    <p>
    Content and Layout
@@ -61,23 +63,18 @@ Research
 News and Events
 Contact Us
 Admissions
-
 Resources
 Design and Layout
 Content Guidelines
-
 Maintenance
 Contributing
 License
 Introduction
 This project aims to create a comprehensive 10-page website for your department. The website will serve as a central hub for information about your department's programs, faculty, research, news, and more.
-
 Web browser
 Basic understanding of HTML and CSS
-
 Getting Started
 Customize the content of each page according to your department's information.
-
 Pages:
 
 #
