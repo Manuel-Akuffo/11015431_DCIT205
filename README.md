@@ -6,6 +6,7 @@ Table of Contents
 
 <p>
  Introduction
+<<<<<<< HEAD
  </p>
 
   <p>
@@ -13,16 +14,28 @@ Table of Contents
   </p>
 
 <h2>Pages</h2>
+=======
+</p>
+<p>
+Getting started
+</p>
+<p>
+>>>>>>> a36fdd0c80646e27f47705ecab55d7896e913c92
 
-<ul>
-  <li>Home</li>
-  <li>About</li>
-  <li>Research<li>
-  <li>Courses<li>
-  <li>Academics</li>
-  <li>Admission</li>
-   <li>News<li>
-   </ul>
+ <div>
+  Pages:
+  
+  1. Home
+  2. About
+  3. Research
+  4. Courses
+  5. Academics
+  6. Admission
+  7. News
+   
+
+
+</div>
   
   <p> 
   Design and Layout
@@ -38,23 +51,23 @@ Table of Contents
    </p>
 
 
-Introduction
+<h3>Introduction</h3>
 This project aims to create a comprehensive 10-page website for your department. The website will serve as a central hub for information about your department's programs, faculty, research, news, and more.
 
-Getting Started
+<h3>Getting Started</h3>
 Clone this repository to your local machinine.
 Navigate to the project folder and open it in your preferred text editor.
 Customize the content of each page according to your department's information.
 
 
-Department Website Project
+<h3>Department Website Project</h3>
 Welcome to the documentation for creating a 10-page website for your department. This guide will walk you through the steps to set up a professional and informative website tailored for your department's needs.
 
 <h3>Table of Contents</h3>
 Introduction
 
-Getting Started
-Pages
+<h3>Getting Started</h3>
+#Pages
 Home
 About Us
 Programs
@@ -71,9 +84,17 @@ Contributing
 License
 Introduction
 This project aims to create a comprehensive 10-page website for your department. The website will serve as a central hub for information about your department's programs, faculty, research, news, and more.
+<<<<<<< HEAD
 Web browser
 Basic understanding of HTML and CSS
 Getting Started
+=======
+
+<h3>Web browser</h3>
+Basic understanding of HTML and CSS
+
+<h3>Getting Started</h3>
+>>>>>>> a36fdd0c80646e27f47705ecab55d7896e913c92
 Customize the content of each page according to your department's information.
 Pages:
 
@@ -144,4 +165,14 @@ Monitor for broken links and fix them promptly.
 #
 Contributing
 for information on how to contribute to this project.
+
+
+<h3>Conclution:</h3>
+Thank you for exploring our website project! We hope this README guide has provided you with a clear understanding of the project's purpose, features, and how to get started. As we continue to enhance and improve the website, we welcome your feedback, suggestions, and contributions.
+
+Building this project has been an exciting journey for our team, and we're committed to maintaining and evolving it to meet the needs of our users. Your support and engagement are invaluable to us, and we look forward to creating a positive and collaborative community around this project.
+
+If you encounter any issues, have questions, or want to contribute, please don't hesitate to reach out. Visit our GitHub repository to open issues, submit pull requests, or simply drop us a message. We appreciate your interest and involvement in making this project a success.
+
+Happy coding!
 </body>
