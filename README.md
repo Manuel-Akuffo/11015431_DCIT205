@@ -64,7 +64,7 @@ Welcome to the documentation for creating a 10-page website for your department.
 Introduction
 
 <h3>Getting Started</h3>
-#Pages
+Pages
 Home
 About Us
 Programs
@@ -81,17 +81,11 @@ Contributing
 License
 Introduction
 This project aims to create a comprehensive 10-page website for your department. The website will serve as a central hub for information about your department's programs, faculty, research, news, and more.
-<<<<<<< HEAD
-Web browser
-Basic understanding of HTML and CSS
-Getting Started
-=======
 
 <h3>Web browser</h3>
 Basic understanding of HTML and CSS
 
 <h3>Getting Started</h3>
->>>>>>> a36fdd0c80646e27f47705ecab55d7896e913c92
 Customize the content of each page according to your department's information.
 Pages:
 
