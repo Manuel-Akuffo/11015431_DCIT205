@@ -18,7 +18,6 @@ Table of Contents
 Getting started
 </p>
 <p>
->>>>>>> a36fdd0c80646e27f47705ecab55d7896e913c92
 
  <div>
   Pages:
